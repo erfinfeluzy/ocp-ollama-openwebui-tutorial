@@ -1,0 +1,12 @@
+Name : Wisa Prabowo
+
+Role : Senior Solution Architect at Red Hat
+## About An enthusiastic and hard working Solution Architect, who has several years experience in a wide range of environments. Capable of delivering to tight deadlines under pressure with minimum supervision, whilst maintaining a high standard of performance across all areas. With an adaptable approach towards work, I am a good team member, able to perform well as part of a team or independently using my own initiative with minimal supervision.
+## Experience 
+* Red Hat Indonesia. November 2017 to Present as Hybrid Cloud Specialist Solution Architect
+* Gunung Sewu Group. October 2016 to November 2017 as Private Cloud Specialist
+
+## Certification 
+* Red Hat Certified Architect in Platform
+* VMWware VTSP 5.0
+* Red Hat Certified System Administrator
