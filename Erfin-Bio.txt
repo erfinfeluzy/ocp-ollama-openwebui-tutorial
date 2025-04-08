@@ -1,0 +1,15 @@
+Name : Erfin Feluzy
+
+Role : Associate Principal Solution Architect at Red Hat
+## About Experienced Solution Architect with a demonstrated history of working in information technology and services industry. Skilled in Solution Architecture, Software Security, Natural Language Processing with Artificial Intelligence bot, Enterprise Application Integration, Application Performance Monitoring, Big Data Analytics, Container Platform, Contact Center Specialist, multiple database platform, SOAP, Hibernate, Spring Framework, and PL/SQL. Strong engineering professional with a Master's degree focused in Information Technology from Universitas Indonesia (UI).
+## Experience * Red Hat Indonesia. April 2019 to Present * Associate Principal Solution Architect Oct 2024 - Present Jakarta, Indonesia * Senior Solution Architect, Commercial SA Team Lead Apr 2019 - Oct 2024 Indonesia * Packet Systems Indonesia (PSI). Dec 2014 to Mar 2019 * General Manager - Software Solution Service Division
+* Visi Solusi Teknologi (Visitek). Nov 2010 to Dec 2014. Indonesia * Enterprise Architect for Digital Payment and Enterprise System Integration * Jati Piranti Solusindo (Jatis), Nov 2008 - Apr 2010 * Software Development Team Leader for Wealth Management System Product * Sigma Cipta Caraka (Balicamp). Mar 2008 - Oct 2008 * Software Developer for Open Core Banking product development. ## Education * University of Indonesia Master's degree, Information Technology 2010 - 2012 * BINUS University, Information Technology 2004 - 2008
+
+## Certification * Certified Customer Success Manager (CCSM) Level 1
+* Red Hat Certified Specialist in Containers and Kubernetes
+* Red Hat Certified Specialist in API Management
+* Cisco Data Virtualization
+* Cisco Unified Contact Center Enterprise - Implementor (UCCE-I) #642-242
+* Cisco Unified Contact Center Enterprise - Support (UCCE-S) #642-243
+* IBM Message Broker 6.1 Developer
+* Oracle Fusion Middleware Developer
